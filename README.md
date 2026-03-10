@@ -33,4 +33,28 @@ c [TRUSTED_CORE 1931624] cpu:0.784 prod:122735 imp:1023 del:111384 maxid=18886
 c [TRUSTED_CORE 1931645] cpu:0.699 prod:111925 imp:1066 del:99703 maxid=20714
 c [TRUSTED_CORE 1931646] cpu:0.699 prod:107805 imp:810 del:94610 maxid=20169
 ```
-  
+ 
+## ImpCake verification
+
+The CakeML backend for ImpCake is built using the following HOL and CakeML commits, which are also included as submodules:
+
+```
+HOL: e123aecd90978b618a941fe09eeead218e038a08
+
+CakeML: 15c9772d3b382b51989734f564ee5f65bad43c9d
+```
+
+In order to build the full verification, follow the build instructions for HOL.
+Then, run the following to build the main refinement proofs and including Theorem 1 / Corollary 2 inside `distrup_globalScript.sml`
+
+```
+cd cakeml/examples/cnf/dist/array/ ; Holmake
+```
+
+To obtain the machine code implementation and its proofs, further run the following.
+The final theorem will be in `disrupProofScript.sml`:
+
+```
+cd cakeml/examples/cnf/dist/array/compilation/proofs ; Holmake
+```
+

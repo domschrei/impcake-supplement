@@ -1,3 +1,9 @@
 [submodule "impcake"]
 	path = impcake
 	url = git@github.com:tanyongkiam/impcheck.git
+[submodule "HOL"]
+	path = HOL
+	url = git@github.com:HOL-Theorem-Prover/HOL.git
+[submodule "cakeml"]
+	path = cakeml
+	url = git@github.com:CakeML/cakeml.git
