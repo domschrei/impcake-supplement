@@ -1,8 +1,10 @@
-# impcake-supplement
+
+# ImpCake Supplement
+
 Supplementary data and information for ImpCake submission.
 
 
-# Obtaining and Installing ImpCake
+## Obtaining and Installing ImpCake
 
 The submission version of ImpCake is available as a submodule in the [`impcake`](impcake) folder.
 
@@ -57,4 +59,14 @@ The final theorem will be in `disrupProofScript.sml`:
 ```
 cd cakeml/examples/cnf/dist/array/compilation/proofs ; Holmake
 ```
+
+
+## Integration in Mallob
+
+We used [Mallob's `impcake` branch](github.com/domschrei/mallob/tree/impcake) for experiments. Build Mallob normally and move the binaries `impcheck_{parse,check,confirm}` to Mallob's `build/` directory. You can then use verified real-time checking via the Mallob options `-otfc=1 -otfcm=0`.
+
+
+## Experimental data
+
+All relevant experimental data surrounding the paper can be found at `experimental-data/`.
 

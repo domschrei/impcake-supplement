@@ -1,0 +1,400 @@
+10pipe_q0_k.cnf 28.69
+15pipe_q0_k.cnf 55.37
+16_1.cnf 5.34
+170223547.cnf 1.76
+17_0.cnf 5.38
+18_1.cnf 5.17
+19_2.cnf 4.86
+20_2.cnf 4.74
+21_1.cnf 4.67
+22_1.cnf 4.27
+23_2.cnf 4.47
+24_0.cnf 4.04
+25_2.cnf 3.99
+26_1.cnf 4.06
+27_1.cnf 3.85
+28_2.cnf 3.54
+29_1.cnf 3.60
+30_2.cnf 3.35
+31_1.cnf 3.66
+32_0.cnf 3.37
+3col120_5_2.shuffled.cnf
+46bits_11.dimacs.cnf 1.96
+5col100_15_6.shuffled.cnf 0.00
+6g_6color_366_050_04.cnf 60.60
+6s165.cnf 0.00
+6s166.cnf 1.70
+6s20-sc2013.cnf 5.98
+9vliw_bp_mc.shuffled.cnf 5.53
+aes_decry_2_rounds.debugged.cnf 21.99
+asconhashv12_opt64_H10_M2-BPHqhzNzqi_m5_6_U14.c.cnf 9.89
+asconhashv12_opt64_H10_M2-pH7B6T6Vub_m6_7.c.cnf 10.07
+asconhashv12_opt64_H12_M2-CxLJidFX21oI_m3_6_U2.c.cnf 10.03
+asconhashv12_opt64_H13_M2-axxJh7DAq767y_m4_5.c.cnf 10.03
+asconhashv12_opt64_H13_M2-NBRdIKEb8MS2W_m3_5.c.cnf 9.76
+asconhashv12_opt64_H15_M2-kwhXs2juqFoKAYA_m12_13_U16.c.cnf 8.87
+asconhashv12_opt64_H4_M2-ldRf_m1_2_U21.c.cnf 7.76
+asconhashv12_opt64_H4_M2-LOD9_m0_2_U19.c.cnf 7.68
+asconhashv12_opt64_H5_M2-A8qZX_m0_3_U23.c.cnf 7.86
+asconhashv12_opt64_H6_M2-4XKSMr_m1_3_U25.c.cnf 7.73
+asconhashv12_opt64_H7_M2-gHvzZOd_m3_4_U11.c.cnf 7.87
+asconhashv12_opt64_H7_M2-K1zfAs8_m0_3_U5.c.cnf 7.75
+asconhashv12_opt64_H7_M2-OrF8zEw_m2_4.c.cnf 7.73
+asconhashv12_opt64_H8_M2-1yQCyA0j_m2_6.c.cnf 9.82
+asconhashv12_opt64_H8_M2-bL4cM6NJ_m4_5_U14.c.cnf 9.79
+asconhashv12_opt64_H8_M2-I61h2mH5_m2_6.c.cnf 10.02
+asconhashv12_opt64_H8_M2-nm2vUdkK_m3_5_U3.c.cnf 9.78
+asconhashv12_opt64_H9_M2-Jdds95CIv_m1_5.c.cnf 9.73
+asconhashv12_opt64_H9_M2-LSGb5PgEM_m2_7.c.cnf 9.82
+asconhashv12_opt64_H9_M2-wNfQskE8G_m1_6_U0.c.cnf 9.72
+baseballcover13with25_and3positions.cnf 82.73
+brent_13_0.1.cnf 4.37
+brent_15_0.25.cnf 4.57
+brent_51_0.07.cnf
+brent_51_0.17.cnf
+brent_51_0.28.cnf 0.00
+brent_51_0.29.cnf
+brent_63_0.15.cnf
+brent_63_0.1.cnf
+brent_63_0.22.cnf
+brent_63_0.26.cnf
+brent_63_0.2.cnf
+brent_63_0.cnf
+brent_65_0.1.cnf
+brent_67_0.05.cnf
+brent_69_0.05.cnf
+brent_69_0.3.cnf
+brent_69_0.cnf
+brent_71_0.25.cnf
+brent_9_0.cnf 3.98
+BZ2File_write_11.cnf 4.12
+C208_FA_UT_3254.cnf
+c499_gr_2pin_w6.shuffled.cnf
+c880_gr_rcs_w7.shuffled.cnf
+cliquecoloring_n12_k9_c8.cnf 8.50
+cliquecoloring_n14_k9_c8.cnf 11.16
+cliquecoloring_n16_k7_c6.cnf 8.87
+cliquecoloring_n18_k7_c6.cnf 12.20
+clqcolor-08-06-07.shuffled-as.sat05-1257.cnf
+CNFPlus_from_fp_12.cnf 7.55
+CNF_to_alien_11.cnf 3.89
+CNF_to_alien_12.cnf 8.40
+CNP-5-1100.cnf 5.23
+collections_namedtuple_15.cnf 7.08
+combined-crypto1-wff-seed-101-wffvars-500-cryptocplx-31-overlap-2.cnf
+connm-ue-csp-sat-n600-d-0.02-s1022905465.used-as.sat04-951.cnf
+ContextModel_output_6_3_8.bul_.dimacs.cnf 2.95
+ContextModel_output_6_4_6.bul_.dimacs.cnf 3.90
+ContextModel_output_6_5_6.bul_.dimacs.cnf 5.94
+ContextModel_output_7_3_9.bul_.dimacs.cnf 3.84
+ContextModel_output_8_4_10.bul.dimacs.cnf 11.76
+ContextModel_output_8_4_8.bul_.dimacs.cnf 10.46
+ContextModel_output_8_4_9.bul.dimacs.cnf 11.13
+crafted_n12_d6_c4_num4.cnf 58.94
+DecompressReader_read_12.cnf 8.06
+DivS_568_11.cnf.sanitized.cnf 13.22
+DivS_862_11.cnf.sanitized.cnf 20.73
+DivS_942_11.cnf.sanitized.cnf 21.28
+DivU_1520_10.cnf.sanitized.cnf 17.96
+DivU_624_11.cnf.sanitized.cnf 13.41
+DLTM_twitter690_74_16.cnf
+em_11_3_4_cmp.cnf 5.71
+eqspctbk14spwtcl14.cnf 5.94
+ER_400_20_4.apx_1_DC-ST.cnf 2.46
+ER_400_20_7.apx_1_DC-ST.cnf 2.49
+ER_500_10_1.apx_1_DC-AD.cnf 6.79
+ER_500_10_2.apx_1_DS-ST.cnf 5.09
+ER_500_10_5.apx_2_DC-ST.cnf 5.78
+ER_500_30_3.apx_2_DC-ST.cnf 2.94
+ferry8_ks99i.renamed-as.sat05-4005.cnf
+FileObject_open_12.cnf 8.57
+FileObject_open_13.cnf 9.26
+g2-ak128astepbg2asisc.cnf
+g2-slp-synthesis-aes-top29.cnf 7.39
+g2-T49.2.0.cnf 75.46
+g2-T99.2.0.cnf 27.29
+gensys-icl002.shuffled-as.sat05-2714.cnf 0.00
+goldberg03:hard_eq_check:i10mul.miter.used-as.sat04-333.cnf 4.19
+goldcrest-and-16.cnf 39.67
+Grain_no_init_ver1_out200_known_last105_0_u.cnf 2.93
+grid_10_20.shuffled.cnf
+grid-pbl-0150.shuffled-as.sat05-1347.shuffled-as.sat05-1347.cnf
+grs-128-32.cnf 7.63
+grs-128-64.cnf 12.04
+grs-160-64.cnf 13.05
+grs-192-160.cnf 35.04
+grs-192-256.cnf 62.83
+grs-192-32.cnf 10.51
+grs-192-48.cnf 12.22
+grs-32-160.cnf 19.52
+grs-32-256.cnf 37.15
+grs-48-128.cnf 17.98
+grs-48-160.cnf 20.52
+grs-48-256.cnf 38.53
+grs-64-160.cnf 21.30
+grs-64-32.cnf 5.39
+grs-96-192.cnf 33.42
+grs-96-32.cnf 6.78
+grs-96-96.cnf 15.21
+GzipFile_close_11.cnf 4.57
+hash_table_find_safety_size_10.cnf 48.54
+hash_table_find_safety_size_11.cnf 46.12
+hash_table_find_safety_size_12.cnf 48.49
+hash_table_find_safety_size_13.cnf 59.09
+hash_table_find_safety_size_14.cnf 53.08
+hash_table_find_safety_size_15.cnf 55.39
+hash_table_find_safety_size_16.cnf 47.16
+hash_table_find_safety_size_17.cnf 50.00
+hash_table_find_safety_size_18.cnf 52.29
+hash_table_find_safety_size_19.cnf 41.25
+hash_table_find_safety_size_20.cnf 42.93
+hash_table_find_safety_size_21.cnf 47.97
+hash_table_find_safety_size_22.cnf 60.20
+hash_table_find_safety_size_23.cnf 42.81
+hash_table_find_safety_size_24.cnf 44.23
+hash_table_find_safety_size_25.cnf 45.51
+hash_table_find_safety_size_26.cnf 48.38
+hash_table_find_safety_size_27.cnf 49.86
+hash_table_find_safety_size_29.cnf 57.31
+hash_table_find_safety_size_30.cnf 59.83
+hwmcc10-timeframe-expansion-k45-nusmvguidancep9-tseitin.cnf 0.00
+ibm-2004-03-k70.cnf 0.00
+IBM_FV_2004_rule_batch_1_31_1_SAT_dat.k40.debugged.cnf 8.15
+instance_n6_i6_pp_ci_ce.cnf
+intervals122.cnf 10.67
+intervals222.cnf 10.44
+intervals244.cnf 11.74
+intervals313.cnf 11.33
+intervals327.cnf 11.51
+intervals467.cnf 10.32
+intervals477.cnf 9.66
+intervals553.cnf 9.20
+intervals607.cnf 12.38
+intervals633.cnf 11.11
+intervals718.cnf 9.68
+intervals727.cnf 12.98
+intervals753.cnf 10.01
+intervals788.cnf 9.73
+intervals7.cnf 10.63
+intervals802.cnf 8.13
+intervals803.cnf 8.55
+intervals80.cnf 10.75
+intervals855.cnf 10.30
+intervals961.cnf 9.48
+iso-brn100.shuffled-as.sat05-3025.cnf
+iso-icl004.shuffled-as.sat05-3238.cnf
+iso-ukn004.shuffled-as.sat05-3385.cnf
+jkkk-one-one-11-32-unsat.cnf 3.09
+lisa19_99_a.shuffled.cnf
+LZMAFile___init___14.cnf 8.25
+LZMAFile_write_12.cnf 8.82
+mchess16-mixed-25percent-blocked.cnf 2.38
+mchess16-mixed-35percent-blocked.cnf 2.28
+mchess16-mixed-45percent-blocked.cnf 1.99
+mchess18-mixed-25percent-blocked.cnf 3.72
+mchess18-mixed-35percent-blocked.cnf 3.83
+mchess18-mixed-45percent-blocked.cnf 3.34
+mchess20-mixed-25percent-blocked.cnf 5.75
+mchess20-mixed-35percent-blocked.cnf 5.71
+mchess20-mixed-45percent-blocked.cnf 5.22
+mchess22-mixed-25percent-blocked.cnf 7.19
+mchess22-mixed-35percent-blocked.cnf 7.11
+mchess22-mixed-45percent-blocked.cnf 6.58
+minxor128.cnf 7.73
+mm-1x10-10-10-sb.1.shuffled-as.sat03-1489.cnf
+mod2c-rand3bip-sat-250-2.shuffled-as.sat05-2534.cnf 2.14
+mod4block_2vars_10gates_u2_autoenc-sc2009.cnf 3.38
+mp1-klieber2017s-1600-022-eq.cnf 2.71
+mrpp_4x4#12_12.cnf 1.80
+mrpp_6x6#18_20.cnf 3.66
+mrpp_8x8#22_10.cnf
+multiplier_13bits__miter_15.cnf 4.34
+multiplier_14bits__miter_14.cnf 5.17
+multiplier_15bits__miter_20.cnf 5.11
+multiplier_16bits__miter_19.cnf 5.87
+ncc_none_7047_6_3_3_0_0_420.cnf 89.15
+new-difficult-26-243-24-70.cnf
+oisc-subrv-and-nested-14.cnf 69.47
+oisc-subrv-sll-nested-15.cnf 61.44
+or_randxor_k3_n520_m520.cnf 5.94
+or_randxor_k3_n540_m540.cnf 6.57
+or_randxor_k3_n560_m560.cnf 6.69
+or_randxor_k3_n600_m600.cnf 6.53
+or_randxor_k3_n640_m640.cnf 6.59
+os_fwalk_12.cnf 7.75
+par32-4.shuffled.cnf 5.53
+patat-08-comp-3.cnf 10.37
+pbl-00070.shuffled-as.sat05-1324.shuffled-as.sat05-1324.cnf
+php-010-009.shuffled-as.sat05-1185.cnf 0.00
+php15-mixed-15percent-blocked.cnf 6.43
+php16-mixed-15percent-blocked.cnf 6.72
+php17-mixed-15percent-blocked.cnf 6.15
+php17-mixed-35percent-blocked.cnf 2.33
+php18-mixed-15percent-blocked.cnf 6.30
+php18-mixed-35percent-blocked.cnf 2.43
+pmg-12-UNSAT.sat05-3940.reshuffled-07.cnf 4.92
+posixpath_expanduser_14.cnf 8.89
+posixpath__joinrealpath_13.cnf 7.77
+preimage_80r_490m_160h_seed_150.cnf 6.75
+PRP_100_150.cnf 48.41
+PRP_100_250.cnf 45.09
+PRP_100_300.cnf 44.84
+PRP_100_350.cnf 37.53
+PRP_100_400.cnf 43.86
+PRP_100_450.cnf 34.50
+PRP_100_500.cnf 37.17
+PRP_100_550.cnf 41.44
+PRP_100_600.cnf 42.38
+PRP_200_100.cnf 44.41
+PRP_20_40.cnf 15.24
+PRP_20_50.cnf 19.23
+PRP_30_35.cnf 19.77
+PRP_30_36.cnf 20.49
+PRP_30_37.cnf 20.65
+PRP_30_38.cnf 21.23
+PRP_30_39.cnf 21.80
+PRP_30_40.cnf 21.73
+PRP_30_41.cnf 22.39
+PRP_40_40.cnf 26.69
+pyhala-braun-sat-35-4-04.shuffled.cnf
+qwh.40.560.shuffled-as.sat03-1654.cnf
+rand_net50-60-10.shuffled.cnf 1.74
+rand_net70-40-10.shuffled.cnf 0.00
+rbsat-v1150c84314gyes10.cnf 6.51
+rbsat-v760c43649gyes10.cnf
+rbsat-v760c43649gyes5.cnf
+REGRandom-K3-L3-Seed10.cnf 14.93
+REGRandom-K4-L1-Seed5.cnf 17.72
+REGRandom-K4-L2-Seed20.cnf 43.15
+REGRandom-K4-L3-Seed15.cnf 58.83
+REGRandom-K4-L4-Seed10.cnf 49.46
+rook-47-0-1.cnf 32.38
+rovers1_ks99i.renamed-as.sat05-3971.cnf
+rphp_p20_r20.cnf 8.13
+rphp_p30_r30.cnf 9.91
+rphp_p60_r60.cnf 10.26
+rphp_p8_r250.cnf 15.28
+sat-bench-trig-bhaskara.cnf 45.65
+sat-bench-trig-taylor2.cnf 44.09
+sat-bench-trig-taylor4.cnf 72.09
+sat-bench-trig-taylor6.cnf 67.92
+satch2ways15u.cnf 4.54
+satch2ways16w.cnf 6.19
+satcoin-genesis-UNSAT-10600.cnf 12.18
+satcoin-genesis-UNSAT-11400.cnf 12.29
+satcoin-genesis-UNSAT-11900.cnf 12.14
+satcoin-genesis-UNSAT-12300.cnf 12.12
+satcoin-genesis-UNSAT-17400.cnf 12.03
+satcoin-genesis-UNSAT-17800.cnf 12.04
+satcoin-genesis-UNSAT-18400.cnf 12.12
+satcoin-genesis-UNSAT-18600.cnf 12.08
+satcoin-genesis-UNSAT-18800.cnf 12.08
+satcoin-genesis-UNSAT-19500.cnf 12.20
+satcoin-genesis-UNSAT-19800.cnf 12.24
+satcoin-genesis-UNSAT-5920.cnf 12.02
+satcoin-genesis-UNSAT-7200.cnf 11.96
+satcoin-genesis-UNSAT-9080.cnf 12.04
+satcoin-genesis-UNSAT-9880.cnf 11.98
+SAT_dat.k10.cnf 6.17
+satsgi-n23himBHm26-p0-q248.cnf
+SC23_Timetable_C_473_E_45_Cl_32_D_6_T_50.cnf 21.76
+SC23_Timetable_C_473_E_46_Cl_32_D_6_T_50.cnf 21.56
+SC23_Timetable_C_473_E_49_Cl_32_D_6_T_50.cnf 18.07
+SC23_Timetable_C_473_E_50_Cl_32_D_6_T_50.cnf 18.62
+SC23_Timetable_C_473_E_52_Cl_32_D_6_T_50.cnf 18.48
+SC23_Timetable_C_474_E_50_Cl_32_D_6_T_50.cnf 18.19
+SC23_Timetable_C_476_E_50_Cl_32_D_6_T_50.cnf 20.15
+SC23_Timetable_C_477_E_50_Cl_32_D_6_T_50.cnf 18.74
+SC23_Timetable_C_478_E_50_Cl_32_D_6_T_50.cnf 18.35
+SC23_Timetable_C_480_E_50_Cl_32_D_6_T_50.cnf 18.52
+SC23_Timetable_C_481_E_49_Cl_32_D_6_T_50.cnf 18.81
+SC23_Timetable_C_481_E_50_Cl_32_D_6_T_50.cnf 18.32
+SC23_Timetable_C_481_E_51_Cl_32_D_6_T_50.cnf 18.32
+SC23_Timetable_C_482_E_50_Cl_33_D_6_T_50.cnf 18.96
+SC23_Timetable_C_483_E_50_Cl_33_D_6_T_50.cnf 19.05
+SC23_Timetable_C_484_E_50_Cl_33_D_6_T_50.cnf 19.95
+SC23_Timetable_C_486_E_50_Cl_33_D_6_T_50.cnf 18.62
+SC23_Timetable_C_488_E_50_Cl_33_D_6_T_50.cnf 19.11
+SC23_Timetable_C_490_E_50_Cl_33_D_6_T_50.cnf 22.08
+Schur_160_5_d34.cnf 4.30
+Schur_161_5_d40.cnf 4.16
+SCPC-1000-18.cnf 3.39
+SCPC-1000-20.cnf 2.83
+SCPC-700-80.cnf 3.02
+SCPC-700-81.cnf 2.51
+SCPC-700-82.cnf 2.31
+SCPC-700-84.cnf 2.54
+SCPC-700-86.cnf 3.18
+SCPC-700-87.cnf
+SCPC-700-88.cnf 0.00
+SCPC-800-40.cnf 0.00
+SCPC-800-41.cnf
+SCPC-800-42.cnf 0.00
+SCPC-800-43.cnf 3.31
+SCPC-800-44.cnf 2.52
+SCPC-800-46.cnf 2.52
+SCPC-800-49.cnf 2.47
+SCPC-800-50.cnf 2.57
+SCPC-900-27.cnf 3.86
+SCPC-900-29.cnf 3.21
+SCPC-900-31.cnf 6.17
+sgen1-unsat-97-100.cnf.mis-72.debugged.cnf 1.67
+sgen3-n260-s62321009-sat.cnf 5.28
+SGI_30_70_27_50_3-dir.shuffled-as.sat03-169.cnf 4.35
+shift1add.28943.cnf 21.02
+shuffling-1-s1870372346-of-bench-sat04-423.used-as.sat04-562.cnf 0.00
+shuffling-2-s1480152728-of-bench-sat04-434.used-as.sat04-711.cnf 28.11
+spg_200_307.cnf 28.15
+spg_420_280.cnf 57.49
+square.2.0.i.smt2-cvc4.cnf 0.00
+srhd-sgi-m37-q446.25-n35-p30-s33692332.cnf
+stb_418_125.apx_2_DC-ST.cnf 2.40
+stb_531_83.apx_2_DC-AD.cnf 2.49
+stb_588_138.apx_2_DC-ST.cnf 2.14
+stb_588_138.apx_2_DS-ST.cnf 2.22
+stb_792_333.apx_1_DS-ST.cnf 2.14
+StreamReader_readline_13.cnf 8.87
+T87.2.0.cnf 90.01
+TableModel_output_6_3_8.bul_.dimacs.cnf 7.72
+TableModel_output_6_4_6.bul_.dimacs.cnf 7.51
+TableModel_output_7_3_9.bul_.dimacs.cnf 10.01
+TableModel_output_8_3_10.bul_.dimacs.cnf 12.74
+TableModel_output_8_4_7.bul_.dimacs.cnf 8.55
+TableModel_output_8_4_8.bul_.dimacs.cnf 11.70
+TableSymModel_output_6_3_8.bul_.dimacs.cnf 8.82
+TableSymModel_output_6_4_6.bul_.dimacs.cnf 6.67
+TableSymModel_output_6_5_6.bul_.dimacs.cnf 6.38
+TableSymModel_output_7_3_9.bul_.dimacs.cnf 9.02
+TableSymModel_output_8_3_10.bul_.dimacs.cnf 9.66
+TableSymModel_output_8_4_7.bul_.dimacs.cnf 4.71
+TableSymModel_output_8_4_8.bul_.dimacs.cnf 9.08
+TimetableCNFEncoding_20_UNKNOWN.cnf 43.82
+tph8.cnf 8.01
+tseitin_d3_n10000.cnf 12.55
+tseitin_d3_n110000.cnf 14.16
+tseitin_d3_n160.cnf 7.69
+tseitin_d3_n180000.cnf 20.21
+tseitin_d3_n200.cnf 6.93
+tseitingrid7x160_shuffled-sc2016.cnf 6.48
+tseitin_grid_n100_m100.cnf 6.02
+tseitin_grid_n260_m260.cnf 14.73
+unsat-set-b-fclqcolor-10-07-09.sat05-1282.reshuffled-07.cnf 3.78
+Urquhart-s3-b3.shuffled-as.sat03-1556.cnf 0.00
+Urquhart-s5-b4.shuffled.cnf 8.88
+velev-pipe-o-uns-1.0-7.cnf 11.51
+vmpc_24.cnf
+vmpc_28.shuffled-as.sat05-1957.cnf 0.00
+WCNF_from_fp_13.cnf 7.14
+WCNF_from_fp_14.cnf 6.45
+WCNFPlus_from_fp_13.cnf 6.06
+WCNFPlus_to_alien_14.cnf 8.53
+WCNF_to_alien_14.cnf 8.94
+WS_400_24_70_10.apx_1_DC-ST.cnf 2.59
+WS_400_24_70_10.apx_2_DC-AD.cnf 3.40
+WS_400_24_70_10.apx_2_DC-ST.cnf 2.51
+WS_400_24_90_10.apx_1_DS-ST.cnf 5.95
+WS_400_24_90_10.apx_2_DC-AD.cnf 3.86
+WS_400_32_90_10.apx_1_DC-AD.cnf 5.59
+WS_500_16_70_10.apx_2_DC-ST.cnf 2.24
+WS_500_16_90_70.apx_2_DC-ST.cnf 2.24
+WS_500_32_50_10.apx_2_DC-AD.cnf 6.48
