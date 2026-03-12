@@ -63,7 +63,7 @@ cd cakeml/examples/cnf/dist/array/compilation/proofs ; Holmake
 
 ## Integration in Mallob
 
-We used [Mallob's `impcake` branch](https://github.com/domschrei/mallob/tree/a0f5c087f2c7b9041700d085f54a13eaadb988e3) for experiments. Build Mallob normally and move the binaries `impcheck_{parse,check,confirm}` to Mallob's `build/` directory. You can then use verified real-time checking via the Mallob options `-otfc=1 -otfcm=0`.
+We used [this commit of Mallob](https://github.com/domschrei/mallob/tree/a0f5c087f2c7b9041700d085f54a13eaadb988e3) for experiments. Build Mallob normally and move the binaries `impcheck_{parse,check,confirm}` to Mallob's `build/` directory. You can then use verified real-time checking via the Mallob options `-otfc=1 -otfcm=0`.
 
 
 ## Experimental data
