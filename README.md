@@ -46,7 +46,7 @@ We assume that [Docker is properly installed on your system](https://get.docker.
 
 ## Smoke Test
 
-A simple smoke test is in `demo/`. Run:
+A very simple first smoke test is in `demo/`. Run:
 
   ```bash
   cd demo ; ./run.sh
@@ -66,9 +66,72 @@ You should see output like this (exact order may differ):
   c [TRUSTED_CORE 21] cpu:0.742 prod:107805 imp:810 del:94610 maxid=20169
   ```
 
-## Full Review
+For the second part of the smoke test, which involves running Mallob, run:
 
-TODO ImpCake full review
+```
+scripts/run-test-smoke.sh
+```
+
+which should, at the end, print a line as follows:
+```
+####################################################################################
+All runs done. Find output at /app/share/mallob-123456789abc-123456789
+####################################################################################
+```
+
+Evaluate the test with:
+```
+scripts/eval-test-smoke.sh /app/share/mallob-123456789abc-123456789
+```
+(replace the directory according to the output of the test run).
+This first creates raw data files, which form the basis for plots and tables, and then produces said plots and tables.
+
+The output should end like this:
+```
+####################################################################################
+All output written to /app/share/mallob-123456789abc-123456789/output-987654321/
+####################################################################################
+```
+
+As a basic sanity check, you can read the basic performance table gathered for SAT solving and should get output like this (numbers not accurate):
+
+```
+$ cat /app/share/mallob-123456789abc-123456789/output-987654321/table-sat.txt
+_                   overall  _        satisf.  _         unsatisf.  _
+Run                 #solved  PAR2     #solved  avgtime   #solved    avgtime
+c1-sat-mixed        11       4.51659  4        0.040775  7          0.0241091
+c1-sat-monolproof   11       4.54403  4        0.107934  7          0.0641143
+c1-sat-rtcheck      8        6.03196  3        0.14766   5          0.039245
+...
+```
+
+Similarly, if you visit the indicated output directory on your host system (i.e., outside of Docker) and open the file `sat-cdf-logscale.pdf`, you should be able to see performance lines for the same eight runs.
+
+**Note:** The experiments of the smoke test are **not** indicative of the different approaches' performance, since the timeouts, scales, and benchmark sets are far too small/low to arrive at any meaningful data.
+
+
+## Full Experimental Demonstration
+
+The full demonstration is run just like the above smoke test:
+```
+# Full demo (60s time limit per input, full benchmark sets)
+scripts/run-test-demo.sh
+scripts/eval-test-demo.sh /app/share/mallob-123456789abc-123456789
+```
+
+The produced output contains the following files:
+
+* table-sat.txt : Basic performance measures for the different setups.
+* sat-cdf.pdf : Performance curves for the different setups (linear scale).
+* sat-cdf-logscale.pdf : Performance curves for the different setups (logarithmic scale).
+* 1v1-overhead-over-mixed-*.pdf : Per-instance performance comparison of monolithic proof production with unchecked, mixed-portfolio solving.
+* 1v1-overhead-*-rtcheck.pdf : Per-instance performance comparison of solving including fast (unverified) real-time proof checking with unchecked, mixed-portfolio solving.
+* 1v1-overhead-*-impcake.pdf : Per-instance performance comparison of solving including ImpCake's real-time proof checking with unchecked, mixed-portfolio solving.
+* 1v1-overhead-solve-vs-check-*.pdf : Per-instance performance comparison of solving time vs. checking time with monolithic proof production.
+* 1v1-overhead-*-impcake-over-rtcheck.pdf : Per-instance performance comparison of solving with ImpCake's real-time proof checking with solving with fast (unverified) real-time proof checking.
+
+In each output, "c1" represents single-core runs, "c8" eight-core runs, etc.
+
 
 ## Formalization
 

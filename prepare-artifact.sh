@@ -9,8 +9,12 @@ tstart=$(date +%s)
 # First, build the Mallob artifact image
 cd mallob/artifact
 
-# Dummy folder
-mkdir -p benchmarks
+# Fetch benchmarks
+cd benchmarks
+    wget --content-disposition -i track_main_2023.uri
+    ls *.cnf.xz | head -20 > ../scripts/selection-sat-smoke.txt
+    ls *.cnf.xz > ../scripts/selection-sat-demo.txt
+cd ..
 
 docker build --progress=plain -f ../Dockerfile -t mallob-cav26 .
 
