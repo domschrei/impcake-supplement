@@ -1,9 +1,16 @@
 [submodule "impcake"]
 	path = impcake
 	url = git@github.com:tanyongkiam/impcheck.git
+	shallow = true
 [submodule "HOL"]
 	path = HOL
 	url = git@github.com:HOL-Theorem-Prover/HOL.git
+	shallow = true
 [submodule "cakeml"]
 	path = cakeml
 	url = git@github.com:CakeML/cakeml.git
+	shallow = true
+[submodule "cav26-artifact-mallob"]
+	path = mallob
+	url = https://github.com/domschrei/cav26-artifact-mallob
+	shallow = true
