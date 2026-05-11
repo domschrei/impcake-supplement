@@ -10,11 +10,9 @@ tstart=$(date +%s)
 cd mallob/artifact
 
 # Fetch benchmarks
-cd benchmarks
+cd benchmarks/sat/
     wget --content-disposition -i track_main_2023.uri
-    ls *.cnf.xz | head -20 > ../scripts/selection-sat-smoke.txt
-    ls *.cnf.xz > ../scripts/selection-sat-demo.txt
-cd ..
+cd ../..
 
 docker build --progress=plain -f ../Dockerfile -t mallob-cav26 .
 
