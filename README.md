@@ -3,12 +3,19 @@
 
 Supplementary data and information for ImpCake submission.
 
+## Artifact Instructions (Docker)
+
+The main way of working with the artifact is to use the supplied Docker image.
+
+TODO: write some modes of using the artifact
+
+## Docker Image
+
+The Docker image is built by running `./prepare-artifact.sh` from the [repository](https://github.com/domschrei/impcake-supplement).
 
 ## Obtaining and Installing ImpCake
 
-The submission version of ImpCake is available as a submodule in the [`impcake`](impcake) folder.
-
-It can also be obtained from this [release tag](https://github.com/tanyongkiam/impcheck/releases/tag/v0.0.1).
+ImpCake is available as a submodule in the [`impcake`](impcake) folder.
 
 For the demo purposes, build it as follows (with a fixed salt):
 
@@ -38,12 +45,13 @@ c [TRUSTED_CORE 1931646] cpu:0.699 prod:107805 imp:810 del:94610 maxid=20169
  
 ## ImpCake verification
 
-The CakeML backend for ImpCake is built using the following HOL and CakeML commits, which are also included as submodules:
+The CakeML backend for ImpCake is built using the following HOL and CakeML
+commits, which are also included as submodules:
 
 ```
-HOL: e123aecd90978b618a941fe09eeead218e038a08
+HOL: 60700bdf7cbbfca4f59cf0a84c07c2ce018801cc
 
-CakeML: 15c9772d3b382b51989734f564ee5f65bad43c9d
+CakeML: d472c73076c082391d91d2f3b87687f720322840
 ```
 
 In order to build the full verification, follow the build instructions for HOL.
