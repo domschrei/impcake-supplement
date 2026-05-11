@@ -4,7 +4,7 @@ NOTE: These instructions are for BUILDING the artifact. It is NOT the artifact i
 
 The Docker image is built by running `./prepare-artifact.sh` from the [repository](https://github.com/domschrei/impcake-supplement).
 
-It assumes that all of the submodules are loaded.
+It assumes that the repository is cloned with all of its submodules, e.g., using `git clone --recurse-submodules`
 
 ## Obtaining and Installing ImpCake
 
