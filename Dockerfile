@@ -35,8 +35,4 @@ RUN cd cakeml/examples/cnf/dist && /app/HOL/bin/Holmake
 RUN cd cakeml/examples/cnf/dist/array && /app/HOL/bin/Holmake
 RUN cd cakeml/examples/cnf/dist/array/compilation/proofs && /app/HOL/bin/Holmake
 
-# Delete extra files from mallob
-RUN rm -rf benchmarks
-RUN rm -rf scripts
-
-COPY ./scripts scripts
+COPY ./scripts/theories.txt scripts/theories.txt
