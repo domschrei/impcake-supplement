@@ -1,0 +1,11 @@
+val _ = load "distrupTheory";
+val _ = load "distInferTheory";
+val _ = load "distInferRefineTheory";
+val _ = load "distInferHashTheory";
+val _ = load "distrup_listTheory";
+val _ = load "distrup_arrayProgTheory";
+val _ = load "distrup_fullProgTheory";
+val _ = load "distrup_globalTheory";
+val _ = load "distrupProofTheory";
+
+val _ = print "Load completed.\n";

@@ -10,7 +10,7 @@ tstart=$(date +%s)
 cd mallob/artifact
 
 # Dummy folder
-mkdir benchmarks
+mkdir -p benchmarks
 
 docker build --progress=plain -f ../Dockerfile -t mallob-cav26 .
 
