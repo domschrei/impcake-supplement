@@ -36,3 +36,6 @@ RUN cd cakeml/examples/cnf/dist/array && /app/HOL/bin/Holmake
 RUN cd cakeml/examples/cnf/dist/array/compilation/proofs && /app/HOL/bin/Holmake
 
 COPY ./scripts/theories.txt scripts/theories.txt
+
+#Overwrite a stale run-test-demo.sh
+COPY ./scripts/run-test-demo.sh scripts/run-test-demo.sh

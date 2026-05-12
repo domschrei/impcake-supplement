@@ -112,7 +112,7 @@ Similarly, if you visit the indicated output directory on your host system (i.e.
 
 ## Full Experimental Demonstration
 
-The full demonstration is run just like the above smoke test:
+The full demonstration is run just like the above smoke test (note that this may take several hours or up to two days):
 ```
 # Full demo (60s time limit per input, full benchmark sets)
 scripts/run-test-demo.sh
