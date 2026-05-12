@@ -141,10 +141,24 @@ The easiest way to browse the theories is to run:
 
   ```bash
   cd /app/cakeml/examples/cnf/dist/array/compilation/proofs
-  /app/HOL/bin/hol < scripts/theories.txt
+  cat /app/scripts/theories.txt - | /app/HOL/bin/hol
   ```
 
 This will insert you into an interactive HOL session and pre-load all of the relevant formalized theories files.
+
+The load takes a while, you should see some output like this:
+
+  ```bash
+  ---------------------------------------------------------------------
+       HOL4 [Trindemossen 2 (stdknl, built Mon May 11 15:49:56 2026)]
+
+       For introductory HOL help, type: help "hol";
+       To exit type <Control>-D
+  ---------------------------------------------------------------------
+  ...
+  Load completed.
+  ```
+
 
 You can then read a proved theorem by sending its name to the HOL terminal, e.g.:
 
@@ -177,7 +191,7 @@ To do a rebuild of the relevant files, you can first delete the prebuilt theorie
 
   ```bash
   cd /app/cakeml/examples/cnf/dist
-  Holmake cleanAll
+  /app/HOL/bin/Holmake cleanAll
   /app/HOL/bin/Holmake
   cd array; /app/HOL/bin/Holmake
   cd compilation; /app/HOL/bin/Holmake
